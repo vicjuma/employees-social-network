@@ -1,0 +1,12 @@
+{
+  "devpt":
+  {
+    "db": {
+      "user": "Oluoch",
+      "host": "localhost",
+      "database": "teamwork",
+      "password": "jumavic@9118",
+      "port": 5432
+    }
+  }
+}
